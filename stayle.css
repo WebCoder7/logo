@@ -1,0 +1,555 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;700&display=swap'); */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+
+nav {
+    margin-top: 10px;
+    margin-bottom: 27px;
+}
+
+
+header{
+    padding-bottom: 130px;
+}
+
+
+.list {
+    display: flex;
+    gap: 115px;
+    margin-top: 30px;
+}
+
+
+
+.list_iteam {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 28px;
+    text-align: center;
+    letter-spacing: 0.2px;
+    color: #252B42;
+}
+
+
+.list_iteam:hover {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 28px;
+    text-align: center;
+    letter-spacing: 0.2px;
+    color: #FA4A0C;
+}
+
+
+.food {
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 36px;
+    text-align: center;
+    letter-spacing: 0.1px;
+    color: #F7F7F7;
+    padding-top: 73px;
+    margin-bottom: 17px;
+}
+
+
+.why {
+    font-weight: 700;
+    font-size: 58px;
+    text-align: center;
+    letter-spacing: 0.2px;
+    color: #FFFFFF;
+    margin-bottom: 27px;
+}
+
+
+.down {
+    font-weight: 500;
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 0.2px;
+    color: #F7F7F7;
+    margin-bottom: 55px;
+}
+
+
+.btn1 {
+    padding: 16px 58px;
+    background: #FA4A0C;
+    box-shadow: 0px 10px 30px rgba(183, 50, 39, 0.2);
+    border-radius: 30px;
+    font-weight: 700;
+    font-size: 24px;
+    letter-spacing: 0.1px;
+    color: #FFFFFF;
+    border: none;
+}
+
+
+.btn2 {
+    padding: 16px 58px;
+    background: transparent;
+    border-radius: 30px;
+    font-weight: 700;
+    font-size: 24px;
+    letter-spacing: 0.1px;
+    color: #FFFFFF;
+    border: 1px solid white;
+}
+
+
+.buttons{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+
+
+.google{
+    display: flex;
+    justify-content: center;
+    margin-top: -270px;
+}
+
+
+.folow{
+    border: 3px solid #040000;
+    margin-bottom: 70px;
+}
+
+
+.how{
+    font-weight: 600;
+    font-size: 44px;
+    line-height: 36px;
+    letter-spacing: 0.1px;
+    color: #000000;
+}
+
+
+.howw{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 130px;
+}
+
+
+.jalka{
+    margin-top: 200px;
+}
+
+
+.telefon{
+    margin-top: -50px;
+}
+
+
+.creat{
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 36px;
+    letter-spacing: 0.1px;
+    color: #FA4A0C;
+}
+
+
+.hello{
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 57px;
+    letter-spacing: 0.2px;
+    color: #252B42;
+    margin-bottom: 25px;
+}
+
+
+.an{
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 38px;
+    letter-spacing: 0.2px;
+    color: #737373;
+}
+
+
+.parot{
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 36px;
+    letter-spacing: 0.1px;
+    color: #FA4A0C;
+    margin-bottom: 17px;
+}
+
+
+.halos{
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 57px;
+    letter-spacing: 0.2px;
+    color: #252B42;
+    margin-bottom: 27px;
+}
+
+
+.shop{
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 38px;
+    letter-spacing: 0.2px;
+    color: #737373;
+}
+
+
+.ttfigma{
+    margin-left: 100px;
+}
+
+
+.uzun{
+    margin-top: -200px;
+    margin-left: 50px;
+}
+
+
+.elman{
+    margin-top: -90px;
+}
+
+
+.server{
+    margin-top: 150px;
+}
+
+
+.region{
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 36px;
+    letter-spacing: 0.1px;
+    color: #FA4A0C;
+    margin-bottom: 17px;
+}
+
+
+.you{
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 57px;
+    letter-spacing: 0.2px;
+    color: #252B42;
+    margin-bottom: 27px;
+}
+
+
+.done{
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 38px;
+    letter-spacing: 0.2px;
+    color: #737373;
+}
+
+
+.kalta{
+    margin-left: 50px;
+}
+
+
+.app{
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 57px;
+    text-align: center;
+    letter-spacing: 0.2px;
+    color: #FFFFFF;
+    padding-top: 145px;
+    margin-bottom: 20px;
+}
+
+
+.your{
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 38px;
+    text-align: center;
+    letter-spacing: 0.2px;
+    color: #FFFFFF;
+    margin-bottom: 60px;
+}
+
+
+.btn4{
+    padding: 18px 32px;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 28px;
+    letter-spacing: 0.2px;
+    color: #FFFFFF;
+    background: #FA4A0C;
+    border-radius: 10px;
+    border: none;
+}
+
+
+.btn5{
+    padding: 18px 42px;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 28px;
+    letter-spacing: 0.2px;
+    color: #FFFFFF;
+    border: 1px solid white;
+    background: transparent;
+    border-radius: 10px;
+
+}
+
+
+.buttonlar{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    padding-bottom: 126px;
+}
+
+
+.lakalka{
+    color: #FA4A0C;
+    font-size: 35px;
+    margin-left: 32px;
+}
+
+
+.beka{
+    display: flex;
+    justify-content: center;
+    margin-top: 45px;
+}
+
+
+.balakala{
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 18px;
+    text-align: right;
+    letter-spacing: 0.1px;
+    color: #5C5C5C;
+    margin-top: 45px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 992 dan 1199 gacha */
+@media (max-width: 1199px) {}
+
+/* 768 dan 991 gacha */
+@media (max-width: 991px) {}
+
+/* 576 dan 767 gacha */
+@media (max-width: 767px) {}
+
+/* 0 dan 575 gacha */
+@media (max-width: 575px) {
+
+
+
+
+    .why {
+        font-weight: 700;
+        font-size: 30px;
+        text-align: center;
+        letter-spacing: 0.2px;
+        color: #FFFFFF;
+        margin-bottom: 27px;
+    }
+    .btn1 {
+        padding: 16px 58px;
+        background: #FA4A0C;
+        box-shadow: 0px 10px 30px rgba(183, 50, 39, 0.2);
+        border-radius: 30px;
+        font-weight: 700;
+        font-size: 24px;
+        letter-spacing: 0.1px;
+        color: #FFFFFF;
+        border: none;
+        margin-left: 10px;
+    }
+    .fayp {
+        width: 441px;
+        margin-left: -74px;
+        height: 601px;
+        margin-top: 70px;
+    }
+    .how {
+        font-weight: 700;
+        font-size: 32px;
+        line-height: 36px;
+        letter-spacing: 0.1px;
+        color: #000000;
+    }
+    .creat {
+        font-weight: 700;
+        font-size: 31px;
+        line-height: 36px;
+        letter-spacing: 0.1px;
+        color: #FA4A0C;
+        text-align: center;
+    }
+    .hello{
+        font-weight: 700;
+        font-size: 40px;
+        line-height: 57px;
+        text-align: center;
+        letter-spacing: 0.2px;
+        color: #252B42;
+    }
+    .an {
+        font-weight: 400;
+        font-size: 30px;
+        /* line-height: 38px; */
+        text-align: center;
+        letter-spacing: 0.2px;
+        color: #737373;
+        margin-bottom: 20px;
+    }
+    .tele {
+        width: 100%;
+    }
+    .parot {
+        font-weight: 700;
+        font-size: 24px;
+        line-height: 36px;
+        text-align: center;
+        letter-spacing: 0.1px;
+        color: #FA4A0C;
+        margin-bottom: 17px;
+    }
+    .halos {
+        font-weight: 700;
+        font-size: 42px;
+        line-height: 57px;
+        text-align: center;
+        letter-spacing: 0.2px;
+        color: #252B42;
+    }
+    .shop {
+        font-weight: 500;
+        font-size: 29px;
+        line-height: 38px;
+        text-align: center;
+        letter-spacing: 0.2px;
+        color: #737373;
+    }
+    .kaltaa {
+        width: 100%;
+        margin-top: -40px;
+    }
+    .region {
+        font-weight: 700;
+        font-size: 24px;
+        line-height: 36px;
+        text-align: center;
+        letter-spacing: 0.1px;
+        color: #FA4A0C;
+    }
+    .you{
+        font-weight: 700;
+        font-size: 47px;
+        line-height: 57px;
+        text-align: center;
+        letter-spacing: 0.2px;
+        color: #252B42;
+    }
+    .done{
+        font-weight: 500;
+        font-size: 29px;
+        line-height: 38px;
+        text-align: center;
+        letter-spacing: 0.2px;
+        color: #737373;
+    }
+    .elman{
+        width: 100%;
+    }
+    
+    
+    
+    
+    
+
+}
